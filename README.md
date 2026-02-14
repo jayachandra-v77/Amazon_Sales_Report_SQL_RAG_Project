@@ -1,1 +1,1 @@
-# Amazon_Sales_Report_RAG_Project_using_Langchain_Openai_Pinecone_VScode
+# Amazon Sales SQL Automation using LangChain
